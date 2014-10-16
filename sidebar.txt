@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[byz:home|Door43 (byz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-byz|d43-byz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-byz/archive/master.zip|d43-byz.zip]]
+
+**Recent Changes**
+{{changes>ns = byz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/byz|Ethnologue data]]
+
